@@ -1,2 +1,4 @@
 # hello-world
-just my first repository
+
+Hi all 
+I just fixed the issue.
